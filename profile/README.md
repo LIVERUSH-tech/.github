@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://www.liverush.co.jp/"><img src="https://www.liverush.co.jp/wp-content/uploads/2026/08/live-rush-logo.png" alt="LIVE RUSH" width="360"></a>
+  <a href="https://www.liverush.co.jp/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.liverush.co.jp/wp-content/uploads/2026/08/live-rush-logo-footer.png">
+      <img src="https://www.liverush.co.jp/wp-content/uploads/2026/08/live-rush-logo.png" alt="LIVE RUSH" width="360">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">Build the Rush. Move the World.</h3>
